@@ -23,4 +23,4 @@ Welcome to the Disney+ Clone React App! This project is a React-based clone of t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/disney-clone-react.git
+https://github.com/mthirumalai2905/disney-clone-react-tailwindcss.git
