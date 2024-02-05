@@ -1,4 +1,6 @@
 # Disney+ Clone React App
+[screen-capture.webm](https://github.com/mthirumalai2905/disney-clone-react-tailwindcss/assets/98790479/25ccb213-500e-4e3f-ae07-fed9101fc09c)
+
 
 Welcome to the Disney+ Clone React App! This project is a React-based clone of the Disney+ streaming service, created for educational purposes.
 
@@ -24,5 +26,4 @@ Welcome to the Disney+ Clone React App! This project is a React-based clone of t
 
 ```bash
 https://github.com/mthirumalai2905/disney-clone-react-tailwindcss.git
-[screen-capture.webm](https://github.com/mthirumalai2905/disney-clone-react-tailwindcss/assets/98790479/25ccb213-500e-4e3f-ae07-fed9101fc09c)
 
