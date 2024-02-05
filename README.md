@@ -1,8 +1,26 @@
-# React + Vite
+# Disney+ Clone React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Disney+ Clone React App! This project is a React-based clone of the Disney+ streaming service, created for educational purposes.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React:** A JavaScript library for building user interfaces.
+- **Tailwind CSS:** A utility-first CSS framework.
+- **Vite:** A fast frontend development build tool.
+
+## Features
+
+- **Dynamic Content:** Fetches movie and TV show data from the TMDB API.
+- **Responsive Design:** Mobile-friendly layout for a seamless user experience.
+- **Custom Styles:** Stylish UI using Tailwind CSS.
+
+## How to Use
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) installed on your machine.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/disney-clone-react.git
