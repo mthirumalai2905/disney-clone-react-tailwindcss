@@ -9,6 +9,7 @@ import GenreMovieList from './Componets/GenreMovieList'
 
 
 
+
 function App() {
   const [count, setCount] = useState(0)
 
